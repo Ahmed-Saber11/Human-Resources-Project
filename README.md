@@ -55,7 +55,7 @@ Developed an interactive dashboard to visualize:
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Help HR departments identify trends and make data-driven decisions  
 - Improve employee retention and compensation planning  
