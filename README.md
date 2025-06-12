@@ -1,10 +1,10 @@
-# 📊 HR Analysis Project
+#  HR Analysis Project
 
 This project involves a comprehensive analysis of HR data to uncover key insights into employee salaries and attrition patterns. The workflow integrates data cleaning, modeling, and visualization using multiple tools and technologies.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python**: Data cleaning and preprocessing  
 - **SQL**: Database schema design and querying  
@@ -13,7 +13,7 @@ This project involves a comprehensive analysis of HR data to uncover key insight
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 - Handled missing values, duplicates, and outliers using **Pandas**  
 - Standardized column names and converted data types  
@@ -21,28 +21,28 @@ This project involves a comprehensive analysis of HR data to uncover key insight
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
-### 📈 Salary Prediction Model
+###  Salary Prediction Model
 
 - Trained regression models to predict employee salaries based on experience, education, and job role  
 - Evaluated performance using **RMSE** and **R² scores**  
 
-### 🚪 Attrition Prediction Model
+###  Attrition Prediction Model
 
 - Built classification models to predict employee attrition (e.g., logistic regression, decision trees)  
 - Used metrics like **accuracy**, **precision**, **recall**, and **F1-score**  
 
 ---
 
-## 🛢️ SQL Schema
+## SQL Schema
 
 - Designed a relational schema to store HR data (employees, departments, salaries, etc.)  
 - Created queries for **KPI extraction** and **reporting**  
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 Developed an interactive dashboard to visualize:
 
@@ -51,7 +51,7 @@ Developed an interactive dashboard to visualize:
 - Salary distribution  
 - Department-wise metrics  
 
-🔧 Enabled filters and slicers for dynamic reporting
+ Enabled filters and slicers for dynamic reporting
 
 ---
 
